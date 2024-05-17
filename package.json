@@ -1,0 +1,11 @@
+{
+  "name": "self-scroll",
+  "version": "1.0.3",
+  "description": "You can customize the scroll bar(Compatible with Firefox,IE,Ghrome)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WangQiuNing",
+  "license": "ISC"
+}
